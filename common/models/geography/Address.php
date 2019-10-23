@@ -40,7 +40,7 @@ class Address extends ActiveRecord
     }
 
     /**
-     * @return array validation rules for model attributes.
+     * @return array validation rules for model attributes.   
      */
     public function rules()
     {
